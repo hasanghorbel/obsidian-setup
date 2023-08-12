@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "index"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "Templates/",
+    "Excalidraw/",
+    "External Links/"
+  ],
+  "attachmentFolderPath": "External Links"
+}
