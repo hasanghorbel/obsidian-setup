@@ -2,13 +2,3 @@
 
 ---
 
-# Thoughts
-
-
-
-# To Do
-
-
-
-# Done
-
